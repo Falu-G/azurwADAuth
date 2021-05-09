@@ -1,0 +1,16 @@
+{
+  "name": "microsoftauth",
+  "version": "1.0.0",
+  "description": "auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FaluG",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^1.0.3",
+    "axios": "^0.21.1",
+    "qs": "^6.10.1"
+  }
+}
